@@ -6,7 +6,7 @@
   </p>
   <p>
     <a href="mailto:sahanavagadi@gmail.com">Email</a> &nbsp;&bull;&nbsp;
-    <a href="https://www.linkedin.com/in/sahana-v-agadi-6abb77282/">LinkedIn</a> &nbsp;&bull;&nbsp;
+    <a href="https://www.linkedin.com/in/sahana-v-agadi-6abb77282/">LinkedIn</a> 
   </p>
 </div>
 
